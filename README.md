@@ -4,5 +4,5 @@ Graduate Research Assistant🎓 at Electronic Visualization Laboratory (EVL) adv
 
 Currently living in Chicago, IL 🏠;
 
-- ⚙️ I use daily: .python, .js, .html, .css, .flask, .react, .d3, .ai, .tensorflow, .pytorch
+- ⚙️ I use daily: .python, .js, .ts, .html, .css, .flask, .react, .d3, .ai, .tensorflow, .pytorch
 - 📫 How to reach me: email at komar3@uic.edu
