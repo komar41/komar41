@@ -5,5 +5,5 @@ My research leverages skills in visualization & visual analytics, big data analy
 My work also involves developing open-source software involving: 
 Currently living in Chicago, IL;
 
-⚙️ I use daily: .python, .js, .html, .css, .flask, .react, .d3, .ai, .tensorflow, .pytorch
-📫 How to reach me: email at komar3@uic.edu
+- ⚙️ I use daily: .python, .js, .html, .css, .flask, .react, .d3, .ai, .tensorflow, .pytorch
+- 📫 How to reach me: email at komar3@uic.edu
